@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: ab5a4bfeddadb4148882a1521d871586
+timeCreated: 1463039756
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: mesh_ston_01
+    100002: mesh_ston_02
+    100004: mesh_ston_03
+    100006: mesh_ston_04
+    100008: mesh_ston_05
+    100010: mesh_ston_06
+    100012: mesh_ston_07
+    100014: mesh_ston_09
+    100016: mesh_ston_09 1
+    100018: mesh_ston_10
+    100020: mesh_ston_11
+    100022: mesh_ston_12
+    100024: mesh_ston_13
+    100026: mesh_ston_14
+    100028: mesh_ston_15
+    100030: //RootNode
+    400000: mesh_ston_01
+    400002: mesh_ston_02
+    400004: mesh_ston_03
+    400006: mesh_ston_04
+    400008: mesh_ston_05
+    400010: mesh_ston_06
+    400012: mesh_ston_07
+    400014: mesh_ston_09
+    400016: mesh_ston_09 1
+    400018: mesh_ston_10
+    400020: mesh_ston_11
+    400022: mesh_ston_12
+    400024: mesh_ston_13
+    400026: mesh_ston_14
+    400028: mesh_ston_15
+    400030: //RootNode
+    2300000: mesh_ston_01
+    2300002: mesh_ston_02
+    2300004: mesh_ston_03
+    2300006: mesh_ston_04
+    2300008: mesh_ston_05
+    2300010: mesh_ston_06
+    2300012: mesh_ston_07
+    2300014: mesh_ston_09
+    2300016: mesh_ston_09 1
+    2300018: mesh_ston_10
+    2300020: mesh_ston_11
+    2300022: mesh_ston_12
+    2300024: mesh_ston_13
+    2300026: mesh_ston_14
+    2300028: mesh_ston_15
+    3300000: mesh_ston_01
+    3300002: mesh_ston_02
+    3300004: mesh_ston_03
+    3300006: mesh_ston_04
+    3300008: mesh_ston_05
+    3300010: mesh_ston_06
+    3300012: mesh_ston_07
+    3300014: mesh_ston_09
+    3300016: mesh_ston_09 1
+    3300018: mesh_ston_10
+    3300020: mesh_ston_11
+    3300022: mesh_ston_12
+    3300024: mesh_ston_13
+    3300026: mesh_ston_14
+    3300028: mesh_ston_15
+    4300000: mesh_ston_01
+    4300002: mesh_ston_15
+    4300004: mesh_ston_14
+    4300006: mesh_ston_13
+    4300008: mesh_ston_12
+    4300010: mesh_ston_11
+    4300012: mesh_ston_10
+    4300014: mesh_ston_09
+    4300016: mesh_ston_09
+    4300018: mesh_ston_07
+    4300020: mesh_ston_06
+    4300022: mesh_ston_05
+    4300024: mesh_ston_04
+    4300026: mesh_ston_03
+    4300028: mesh_ston_02
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
